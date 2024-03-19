@@ -211,6 +211,7 @@ nav{
         font-size:17vw;
         font-weight: 500;
         white-space: nowrap;
+        margin-left: 15vw;
     }
     #img-content{
         height: 70%;
